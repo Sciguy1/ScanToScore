@@ -15,4 +15,3 @@ It is based around OpenCV and
 
 
 
-## How
