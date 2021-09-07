@@ -9,7 +9,7 @@ It is based around OpenCV and
 ## How to Build the Software
 
 
-## How the software was tested ##
+## How the Software Was Tested ##
 
 
 
